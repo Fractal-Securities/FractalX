@@ -1,0 +1,2 @@
+# FractalX
+A Cryptocurrency Exchange
